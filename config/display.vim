@@ -26,5 +26,6 @@ set statusline+=%=                                            " right align
 "set statusline+=%{exists('g:loaded_rvm')?rvm#statusline():''} " rvm status
 set statusline+=(%l,%c%V)\ %<%P                               " offset
 
-set listchars=tab:▸\ ,eol:¬
+"set listchars=tab:▸\ ,eol:¬
+"set listchars=tab:··
 
