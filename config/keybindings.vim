@@ -11,7 +11,7 @@ map <Leader>w :w!<CR>
 map <Leader>q :q!<CR>
 
 map <Leader>x :close<CR>
-imap ii <Esc>
+imap jj <Esc>
 
 " navigate among windows using ;[hjkl]
 map <Leader>h <C-W>h
