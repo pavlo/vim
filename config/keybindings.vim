@@ -50,3 +50,5 @@ nnoremap <Space> @q
 "https://github.com/kien/ctrlp.vim
 "CTRLP
 map <Leader>l :CtrlPMixed<CR>
+
+command Qa qa
